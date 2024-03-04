@@ -3,7 +3,7 @@ Visitor count<br>
   <img src="https://profile-counter.glitch.me/knownblackhat/count.svg" />
 </p>
 <p align="center"> 
-<img src="https://songs6.vlcmusic.com/tiny_image/timthumb.php?q=100&w=250&src=images/40400.png"/>
+<img height=500 width=500 src="https://images.genius.com/e835c70a074e8bb00192047da3de2a0e.1000x1000x1.jpg"/>
 </p>
 
 ![My Skills](https://skillicons.dev/icons?i=docker,git,js,typescript,githubactions,react,nextjs,linux,discord,md,mongodb,mysql,bash,py,regex,rust,vim,neovim,flask,lua,tailwind,bootstrap,nginx,svelte,php,c,kubernetes)
